@@ -6,4 +6,6 @@ Under your projects assets folder, simply
 ``` 
 git clone https://github.com/Macawls/ScriptTemplates.git
 ```
-Restart your editor and it'll show up in the context menu
+Restart your editor and it'll show up in the context menu.
+
+## N.B Dont forget to remove the .git folder 🤛😸
